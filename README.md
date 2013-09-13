@@ -1,13 +1,11 @@
 Launch Schedule release Note:
-![icon](icons/sample.jpg "")
+![icon](icons/sample.gif "")
 ====================
 What is Launch Schedule
 ---------------------
 This plugin will give you the ability to schedule your launches in eclipse. 
 It's basicly a cron feture for eclipse. I moved the project to Github insteed becuse it's simpler and better.
-
-![icon](1.png "") ![icon](2.png "")
-
+ 
 
 How to install :
 ---------------------
@@ -27,4 +25,10 @@ Version:
 Project web sites :
 ---------------------
 http://github.com/eclipselaunchsc/
+
+Screenshot
+----------
+
+![icon](1.png "") ![icon](2.png "")
+
 	
