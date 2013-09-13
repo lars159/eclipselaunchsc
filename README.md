@@ -1,4 +1,4 @@
-![icon](icons/sample.gif "") Launch Schedule release Note: 
+![icon](icons/48X48.png "") Eclipse Launch Scheduler plugin
 ====================
 What is Launch Schedule
 ---------------------
