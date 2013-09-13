@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: LS
+Bundle-SymbolicName: LS;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: ls.Activator
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ org.eclipse.ui,
+ org.eclipse.core.runtime
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Import-Package: junit.framework,
+ org.apache.commons.logging,
+ org.apache.commons.logging.impl;version="1.0.4",
+ org.eclipse.debug.core
+Bundle-ActivationPolicy: lazy
+Eclipse-LazyStart: true
