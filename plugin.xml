@@ -34,7 +34,7 @@
       <actionSet
             label="Sample Action Set"
             visible="true"
-            id="LS.actionSet">
+            id="LS1.actionSet">
          <menu
                label="Sample &amp;Menu"
                id="sampleMenu">

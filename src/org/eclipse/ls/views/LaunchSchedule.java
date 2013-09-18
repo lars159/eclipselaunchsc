@@ -201,7 +201,11 @@ public class LaunchSchedule extends ViewPart implements IWorkbenchWindowActionDe
 	}
 
 	public void updateView() {
-		viewer.refresh();
+		try{ 
+			viewer.refresh();
+		}catch(Exception e){
+			log.info(e);
+		}
 	}
 
 	public void deleteSelected() {
