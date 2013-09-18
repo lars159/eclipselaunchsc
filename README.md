@@ -10,7 +10,7 @@ How to install :
 ---------------------
 + Use the update site: launchschedule.s3-website-us-east-1.amazonaws.com
  
-+Copy the LaunchScheduler.jar from upload dir to your [ECLIPSE HOME DIR]/plugins
++ Copy the LaunchScheduler.jar from upload dir to your [ECLIPSE HOME DIR]/plugins
 
 Start Launch Scheduler: Select Window->Show view->Other And then select Launch Scheduler
 
